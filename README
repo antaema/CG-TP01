@@ -1,3 +1,4 @@
+```html
 <h1>How to install OpenGL</h1>
 
 <p>sudo apt-get install freeglut3 -y <\p>
