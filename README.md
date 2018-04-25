@@ -17,6 +17,7 @@ How to install OpenGL
 
 
 How to compile
+
     make
     make clean
     ./tp1
