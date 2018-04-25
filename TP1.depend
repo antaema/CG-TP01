@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1458753552 source:c:\users\escola\desktop\tp1\tp1\barra.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"barra.h"
+
+1458753552 c:\users\escola\desktop\tp1\tp1\barra.h
+
+1459143353 source:c:\users\escola\desktop\tp1\tp1\main.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"barra.h"
+	"personagem.h"
+	"objeto.h"
+	"botao.h"
+	"vetor.h"
+
+1459143353 c:\users\escola\desktop\tp1\tp1\personagem.h
+
+1459131621 source:c:\users\escola\desktop\tp1\tp1\personagem.c
+	"personagem.h"
+
+1459138432 source:c:\users\escola\desktop\tp1\tp1\objeto.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objeto.h"
+	<time.h>
+
+1458952781 c:\users\escola\desktop\tp1\tp1\objeto.h
+
+1458748160 source:c:\users\alunoccc\desktop\tp1\tp1\barra.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"barra.h"
+
+1458748160 c:\users\alunoccc\desktop\tp1\tp1\barra.h
+
+1458764342 source:c:\users\alunoccc\desktop\tp1\tp1\objeto.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"objeto.h"
+	<time.h>
+
+1458748160 c:\users\alunoccc\desktop\tp1\tp1\objeto.h
+
+1458748160 source:c:\users\alunoccc\desktop\tp1\tp1\personagem.c
+	"personagem.h"
+
+1458748160 c:\users\alunoccc\desktop\tp1\tp1\personagem.h
+
+1458767436 source:c:\users\alunoccc\desktop\tp1\tp1\main.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	"barra.h"
+	"personagem.h"
+	"objeto.h"
+
+1459021054 source:c:\users\escola\desktop\tp1\tp1\botao.c
+	"botao.h"
+
+1459022570 c:\users\escola\desktop\tp1\tp1\botao.h
+
+1459121865 source:c:\users\escola\desktop\tp1\tp1\audio.c
+	<windows.h>
+	<mmsystem.h>
+
+1459142489 source:c:\users\escola\desktop\tp1\tp1\vetor.c
+	"vetor.h"
+
+1459142815 c:\users\escola\desktop\tp1\tp1\vetor.h
+
