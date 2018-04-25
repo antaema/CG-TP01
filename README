@@ -5,8 +5,7 @@
         <div class="block two first">
             <h2>How to install OpenGL</h2>
             <div class="wrap">
-            //Your content
-            <p>sudo apt-get install freeglut3 -y <\p>
+                <p>sudo apt-get install freeglut3 -y <\p>
                 <p>sudo apt-get install freeglut3-dev -y <\p>
                 <p>sudo apt-get install binutils-gold -y <\p>
                 <p>sudo apt-get install g++ cmake -y <\p>
@@ -21,20 +20,10 @@
             </div>
             <h2>How to compile</h2>
             <div class="wrap">
-            //Your content
-            <p>make<\p>
-            <p>make clean<\p>
-            <p>./tp1<\p>
+                <p>make<\p>
+                <p>make clean<\p>
+                <p>./tp1<\p>
             </div>
         </div>
     </div>
 </pre>
-
-
-<h1>How to install OpenGL</h1>
-
-
-<h1>How to compile</h1>
-<p>make<\p>
-<p>make clean<\p>
-<p>./tp1<\p>
